@@ -1,0 +1,14 @@
+---
+#System Settings
+php_modules: [ 'php-curl', 'php-gd', 'php-mbstring', 'php-xml', 'php-xmlrpc', 'php-soap', 'php-intl', 'php-zip' ]
+
+#MySQL Settings
+mysql_root_password: "123321"
+mysql_db: "satestobaza"
+mysql_user: "shalva"
+mysql_password: "paroli123"
+
+#HTTP Settings
+http_host: "localhost"
+http_conf: "localhost.conf"
+http_port: "80"
